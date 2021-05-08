@@ -1,0 +1,74 @@
+@import 'variables';
+
+.comunidad{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem;
+    h1{
+        font-size: 20px;
+        font-weight: bold;
+        color: $azul-oscuro;
+    }
+
+    p{
+        width: 290px;
+        padding-top: 1.5rem;
+        font-size: 12px;
+        font-weight: normal;
+        line-height: 1.4rem;
+        color: $azul-oscuro;
+        text-align: center;
+    }
+
+    img{
+        width: 53px;
+        height: 53px;
+    }
+
+    h2{
+        margin-top: 2rem;
+        font-size: 18px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.5;
+        color: $azul-oscuro;
+    }
+}
+
+form{
+    width: 296px;
+    height: 430px;
+    margin-left: 4rem;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    label{
+        font-size: 15px;
+        font-weight: normal;
+        color: $azul-oscuro;
+        padding-top: .5rem;
+        padding-bottom: .5rem;
+    }
+    input{
+        width: 294px;
+        height: 30px;
+        border-radius: 15px;
+        border-color: $azul-oscuro;
+        color: gray;
+    }
+    .cumple{
+        width: 144px;
+    }
+    #pais{
+        width: 115px;
+    }
+    button{
+        width: 101px;
+        height: 30px;
+        color: $blanco;
+        background-color: $azul-oscuro;
+        border-radius: 15px;
+        border: 0px;
+    }
+}

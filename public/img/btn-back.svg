@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="61" viewBox="0 0 53 61">
+  <defs>
+    <clipPath id="clip-btn-back">
+      <rect width="53" height="61"/>
+    </clipPath>
+  </defs>
+  <g id="btn-back" clip-path="url(#clip-btn-back)">
+    <g id="boton_retorno" transform="translate(-241.708 -941.198)">
+      <circle id="Elipse_1" data-name="Elipse 1" cx="26.175" cy="26.175" r="26.175" transform="translate(241.708 946.307)" fill="#00365f"/>
+      <g id="arrow-down-s-line" transform="translate(294.707 997.739) rotate(180)">
+        <path id="Trazado_75" data-name="Trazado 75" d="M0,0H53V53H0Z" fill="none"/>
+        <path id="Trazado_76" data-name="Trazado 76" d="M14.054,10.931,24.985,0l3.123,3.123L14.054,17.176,0,3.123,3.123,0Z" transform="translate(12.446 18.157)" fill="#ffd000"/>
+      </g>
+    </g>
+  </g>
+</svg>

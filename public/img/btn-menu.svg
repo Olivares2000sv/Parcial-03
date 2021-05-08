@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="61" viewBox="0 0 53 61">
+  <defs>
+    <clipPath id="clip-btn-menu">
+      <rect width="53" height="61"/>
+    </clipPath>
+  </defs>
+  <g id="btn-menu" clip-path="url(#clip-btn-menu)">
+    <g id="Grupo_90" data-name="Grupo 90" transform="translate(-6125.912 -99.912)">
+      <g id="menu-line" transform="translate(6119 97)">
+        <path id="Trazado_83" data-name="Trazado 83" d="M0,0H66.824V66.824H0Z" fill="none"/>
+        <path id="Trazado_84" data-name="Trazado 84" d="M3,4H53.118V9.569H3ZM3,23.49H53.118v5.569H3Zm0,19.49H53.118V48.55H3Z" transform="translate(5.353 7.137)" fill="#00365f"/>
+      </g>
+    </g>
+  </g>
+</svg>

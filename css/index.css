@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  border: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.redes {
+  width: 62px;
+  height: 248px;
+  padding-top: 5rem;
+  position: fixed;
+}
+
+.facebook {
+  width: 62px;
+  height: 62px;
+  background-color: #FFD000;
+  color: #00365F;
+}
+
+.instagram {
+  width: 62px;
+  height: 62px;
+  background-color: #FFD000;
+}
+
+.twitter {
+  width: 62px;
+  height: 62px;
+  background-color: #FFD000;
+}
+
+.youtube {
+  width: 62px;
+  height: 62px;
+  background-color: #FFD000;
+}
+
+section {
+  width: auto;
+  height: 2000px;
+}
+
+section .titulo {
+  color: #00365F;
+  font-family: "Helvetica", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+section .icono {
+  width: 100px;
+  height: 100px;
+  background-size: 200px;
+}
+/*# sourceMappingURL=index.css.map */

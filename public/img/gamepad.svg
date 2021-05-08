@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="61" viewBox="0 0 53 61">
+  <defs>
+    <clipPath id="clip-gamepad">
+      <rect width="53" height="61"/>
+    </clipPath>
+  </defs>
+  <g id="gamepad" clip-path="url(#clip-gamepad)">
+    <g id="Componente_4_11" data-name="Componente 4 – 11" transform="translate(-0.146 3.854)">
+      <path id="Trazado_7" data-name="Trazado 7" d="M0,0H53.293V53.293H0Z" fill="none"/>
+      <path id="Trazado_8" data-name="Trazado 8" d="M36.529,4A13.323,13.323,0,0,1,49.852,17.323v8.882A13.323,13.323,0,0,1,36.529,39.529H14.323A13.323,13.323,0,0,1,1,26.205V17.323A13.323,13.323,0,0,1,14.323,4Zm0,4.441H14.323a8.882,8.882,0,0,0-8.871,8.438l-.011.444v8.882a8.882,8.882,0,0,0,8.438,8.871l.444.011H36.529A8.882,8.882,0,0,0,45.4,26.649l.011-.444V17.323a8.882,8.882,0,0,0-8.438-8.871ZM20.985,15.1v4.441h4.441v4.441H20.983l0,4.441H16.544l0-4.441H12.1V19.544h4.441V15.1Zm17.764,8.882v4.441H34.308V23.985ZM34.308,15.1v4.441H29.867V15.1Z" transform="translate(1.22 4.882)" fill="#00365f"/>
+    </g>
+  </g>
+</svg>
